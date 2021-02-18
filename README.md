@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yossef-Dawoad 
-- communication engneering student 
-- 👀 I’m interested in deepLearning and AI and buliding intelligent apps
+- communication engineering student 
+- 👀 I’m interested in deep learning and AI and building intelligent apps
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on awesome DeepLearing Projects
 - 📫 How to reach me send me [email](yossefdawoad15@gmail.com)
