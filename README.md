@@ -3,7 +3,7 @@
 - 👀 I’m interested in deep learning and AI and building intelligent apps
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on awesome DeepLearing Projects
-- 📫 How to reach me send me [email](yossefdawoad15@gmail.com)
+- 📫 How to reach me send me, you can send me an  [email](yossefdawoad15@gmail.com)
 
 <!---
 Yossef-Dawoad/Yossef-Dawoad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
