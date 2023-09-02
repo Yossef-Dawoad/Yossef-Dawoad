@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Yossef-Dawoad 
-- communication and computer engineering student 
-- 👀 I’m interested in Backend & deep learning and building intelligent apps
-- 🌱 I’m activly learning about Backend and ML Devlopment 
-- 💞️ looking to collaborate on awesome DeepLearing Projects
+-  computer engineering fresh graduate  
+- 💞️ I love building intelligent apps
+- 🌱 I’m activly learning about Full-Stack and ML Devlopment 
 - 📫 How to reach me, you can send me an  [email](yossefdawoad15@gmail.com)
 
 <!---
