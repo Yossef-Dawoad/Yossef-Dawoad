@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Yossef-Dawoad 
 -  computer engineering fresh graduate  
 - 💞️ I love building intelligent apps
-- 🌱 I’m activly learning about Full-Stack and ML Devlopment 
+- 🌱 I’m activly learning about Backend and Mobile Devlopment 
 - 📫 How to reach me, you can send me an  [email](yossefdawoad15@gmail.com)
 
 <!---
